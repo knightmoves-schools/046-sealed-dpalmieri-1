@@ -1,6 +1,6 @@
 ﻿namespace knightmoves;
 
-public class Organization{
+public sealed class Organization{
    private string Name;
    private int YearEstablished = 1934;
 
